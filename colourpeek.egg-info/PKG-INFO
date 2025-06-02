@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: colourpeek
+Version: 1.0.0
+Summary: A CLI tool to preview images and extract dominant colours.
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: Environment :: Console
+Requires-Python: >=3.6
+Requires-Dist: colorthief
+Requires-Dist: climage
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

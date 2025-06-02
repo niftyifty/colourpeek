@@ -1,0 +1,10 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore venvs
+venv/
+.venv/
+
+# Ignore macOS metadata
+.DS_Store

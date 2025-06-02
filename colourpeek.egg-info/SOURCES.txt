@@ -1,0 +1,10 @@
+setup.py
+colourpeek/__init__.py
+colourpeek/__main__.py
+colourpeek/setup.py
+colourpeek.egg-info/PKG-INFO
+colourpeek.egg-info/SOURCES.txt
+colourpeek.egg-info/dependency_links.txt
+colourpeek.egg-info/entry_points.txt
+colourpeek.egg-info/requires.txt
+colourpeek.egg-info/top_level.txt
